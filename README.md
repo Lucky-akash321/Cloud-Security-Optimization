@@ -1,5 +1,7 @@
 # Coffee Sales Analysis using Excel
 
+![](https://github.com/Lucky-akash321/Coffee-Sales-using-Excel/blob/main/ECSA.png)
+
 ## Overview
 The Coffee Sales Analysis project involves analyzing historical sales data for a coffee business to identify trends, assess performance, and provide actionable insights. The project utilizes Excel to process, visualize, and summarize key sales metrics, helping to inform decision-making for product strategies and marketing campaigns.
 
